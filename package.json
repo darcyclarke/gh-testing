@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "gh-testing": "index.js"
+    "gh-testing": "gh-testing"
   },
   "keywords": [],
   "author": "",
